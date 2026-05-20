@@ -1,0 +1,8 @@
+#PROGRAM TO ADD 2 NUMBERS
+A=22
+B=43
+C=A+B
+print(C)
+D=22+41
+print(D)
+

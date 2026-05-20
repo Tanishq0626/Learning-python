@@ -3,3 +3,5 @@ import pyjokes
 print("This a random joke")
 joke = pyjokes.get_joke()
 print(joke)
+import math
+print(math.sqr(12))
